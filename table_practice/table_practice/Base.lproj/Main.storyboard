@@ -63,25 +63,5 @@
             </objects>
             <point key="canvasLocation" x="-2637" y="-631"/>
         </scene>
-        <!--Table View Controller-->
-        <scene sceneID="0Kr-hF-QBu">
-            <objects>
-                <tableViewController id="uE6-Sm-b9R" customClass="NHTTableViewController" sceneMemberID="viewController">
-                    <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="28" sectionFooterHeight="28" id="Ppu-5k-jgb">
-                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
-                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <animations/>
-                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
-                        <sections/>
-                        <connections>
-                            <outlet property="dataSource" destination="uE6-Sm-b9R" id="NV4-PR-f9x"/>
-                            <outlet property="delegate" destination="uE6-Sm-b9R" id="lCm-cS-CSH"/>
-                        </connections>
-                    </tableView>
-                </tableViewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="eeH-OQ-XcK" userLabel="First Responder" sceneMemberID="firstResponder"/>
-            </objects>
-            <point key="canvasLocation" x="-1143" y="-631"/>
-        </scene>
     </scenes>
 </document>
