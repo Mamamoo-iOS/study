@@ -1,0 +1,2 @@
+pod 'TWPhotoPicker', '~> 1.0.0'
+xcodeproj 'Example/InstagramPhotoPicker.xcodeproj'
